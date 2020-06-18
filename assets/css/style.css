@@ -1,0 +1,60 @@
+html{
+    scroll-behavior: smooth;
+}
+* {margin:0; padding:0}
+body {
+    font-size: 18px;
+    border: 10px solid black ;
+}
+section {
+    height: 98vh;
+    width: 100%;
+    background: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+div {
+    width: 24%;
+    height: 32%;
+    background: red;
+}
+.eins {
+    background: url(http://source.unsplash.com/random/-1) center/cover no-repeat;
+}
+.zwei {
+    background: url(http://source.unsplash.com/random/-2) center/cover no-repeat;
+}
+.drei {
+    background: url(http://source.unsplash.com/random/-3) center/cover no-repeat;
+}
+.vier {
+    background: url(http://source.unsplash.com/random/-4) center/cover no-repeat;
+}
+.fuenf {
+    background: url(http://source.unsplash.com/random/-5) center/cover no-repeat;
+}
+.sechs {
+    background: url(http://source.unsplash.com/random/-6) center/cover no-repeat;
+}
+.sieben {
+    background: url(http://source.unsplash.com/random/-7) center/cover no-repeat;
+}
+.acht {
+    background: url(http://source.unsplash.com/random/-8) center/cover no-repeat;
+}
+.neun {
+    background: url(http://source.unsplash.com/random/-9) center/cover no-repeat;
+}
+.zehn {
+    background: url(http://source.unsplash.com/random/-10) center/cover no-repeat;
+}
+.elf {
+    background: url(http://source.unsplash.com/random/-11) center/cover no-repeat;
+}
+.zwoelf {
+    background: url(http://source.unsplash.com/random/-12) center/cover no-repeat;
+}
